@@ -1,16 +1,5 @@
 # Music Recommendation System based on Facial Emotions Recognition
 
-### Mentor
-
-#### > Akash Patel
-
-### Members
-
-||Name|
-|-|-|
-|1| Samarth M R|
-|2| Lourde Mary.T|
-
 ### About Project 
 
 Face recognition technology has widely attracted attention due to its enormous application value and market potential. It is being implemented in various fields like security system, digital video processing, and many such technological advances. Additionally, music is the form of art, which is known to have a greater connection with a person’s emotions.
