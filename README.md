@@ -1,5 +1,16 @@
 # Music Recommendation System based on Facial Emotions Recognition
 
+### Mentor
+
+#### > Akash Patel
+
+### Members
+
+||Name|
+|-|-|
+|1| Samarth M R|
+|2| Lourde Mary.T|
+
 ### About Project 
 
 Face recognition technology has widely attracted attention due to its enormous application value and market potential. It is being implemented in various fields like security system, digital video processing, and many such technological advances. Additionally, music is the form of art, which is known to have a greater connection with a person’s emotions.
@@ -47,3 +58,7 @@ Also, you  can make your own Expression dataset (NOTE: You can downlaod expressi
 - You can also interface this with the `music.py` file which is a GUI based music app that plays songs based on facial emotions. This work was not able to complete by us in this project, but we have provided the GUI code for music app as well separately and we'll combine it soon and update it in our GitHub repositories.
 
 That's all guys..!!
+
+### Video demo of Output
+
+<img src="https://github.com/SamarthMR/Music-Recommendation-System-based-on-Facial-Emotions-Recognition/blob/main/Music_ML.gif">
