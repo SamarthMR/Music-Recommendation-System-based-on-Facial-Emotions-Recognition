@@ -45,4 +45,5 @@ Also, you  can make your own Expression dataset (NOTE: You can downlaod expressi
 - After training it will create two files called as `retrained_graph.pb` & `retrained_labels.txt`.
 - Now run `music_player_webcam.py` (give proper path of songs and Mediaplayer according to your location inside the program/code).
 - You can also interface this with the `music.py` file which is a GUI based music app that plays songs based on facial emotions. This work was not able to complete by us in this project, but we have provided the GUI code for music app as well separately and we'll combine it soon and update it in our GitHub repositories.
-- That's all..!!
+
+That's all guys..!!
