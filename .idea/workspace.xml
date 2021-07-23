@@ -16,7 +16,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Drowsiness_Detection/venv/Lib/site-packages/tensorflow/python/framework/graph_util_impl.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Image_Extraction" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.music_player_webcam">
@@ -168,13 +168,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.music_player_webcam" />
       <item itemvalue="Python.Face_crop (1)" />
       <item itemvalue="Python.Face_crop (2)" />
       <item itemvalue="Python.Face_crop (3)" />
       <item itemvalue="Python.Face_crop" />
       <item itemvalue="Python.Frames" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.music_player_webcam" />
     </list>
     <recent_temporary>
       <list>
